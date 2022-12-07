@@ -1,0 +1,6 @@
+create function which accept number.
+then we have to use 2 for loop.
+one for rows and another for columns.
+create one empty variable where we store star.
+for new have to add "\n" in variable.
+in the end print that variable.
